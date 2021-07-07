@@ -1,0 +1,3 @@
+admin@admin.com   :     123@Admin
+
+customer@customer.com   :  123@Admin
